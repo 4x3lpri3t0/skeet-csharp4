@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace MasteringCSharp_BasicsOfSystem.Dynamic
+namespace MasteringCSharp_OptionalParameters
 {
     class Program
     {
